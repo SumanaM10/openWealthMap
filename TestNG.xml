@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Suite" parallel="false">
+  <test name="UI Test">
+    <classes>
+      <class name="UITest.BlazeDemoTest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+    <test name="API Test">
+    <classes>
+      <class name="APITest.BDDStyleGetRequest"/>
+    </classes>
+  </test> <!-- Test -->
+  
+  
+</suite> <!-- Suite -->
