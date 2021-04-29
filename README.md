@@ -10,12 +10,12 @@ This covers below two tests
  
  There are 2 main ways to run the tests
  
- 1. As a testngTest
+ 1. As testngTest
  
  	run TestNG.xml file
 
-2. As a maven.
-	Navigate to base project directory and run below command incommand propmt
+2. As maven.
+	Navigate to base project directory and run below command in the command prompt
  		
  		mvn test
         
