@@ -1,8 +1,8 @@
 
 # **Assignment**
 This covers below two tests
-1. create booking and verify the confirmation ID.This is based on UIAutomation
-2. Get API using query parameter as City on base url https://openweathermap.org/current
+1. Blazedemo.com > Create a booking and verify the confirmation ID.
+2. Api Test > Get API using query parameter as City on base url https://openweathermap.org/current
 
 
 
