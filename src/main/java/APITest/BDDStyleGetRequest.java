@@ -16,7 +16,7 @@ public class BDDStyleGetRequest {
 
 	@Test
 	public static void getResponseBody2() {
-		currentResponse= getcurrentWeather(API_KEY,"Meerut");
+		currentResponse= getcurrentWeather(API_KEY,"Bangalore");
 		getStatusCode(currentResponse);
 	}
 
